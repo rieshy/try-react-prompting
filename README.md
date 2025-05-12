@@ -1,2 +1,2 @@
-# try-react-prompting
-LLM ReAct prompting exercise
+# LLM ReAct prompting exercise
+
